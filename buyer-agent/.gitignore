@@ -1,0 +1,9 @@
+.env
+.env.example
+.claude/
+.codex/
+.omc/
+.omx/
+CLAUDE.md
+dist/
+node_modules/
