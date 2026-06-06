@@ -9,7 +9,9 @@
     "test": "node --test -r ts-node/register src/**/*.test.ts"
   },
   "dependencies": {
+    "@google/generative-ai": "^0.24.1",
     "axios": "^1.7.9",
+    "dotenv": "^17.4.2",
     "express": "^4.21.2",
     "mongoose": "^8.9.5"
   },

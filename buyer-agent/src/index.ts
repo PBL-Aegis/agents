@@ -1,3 +1,4 @@
+import "dotenv/config";
 import express from "express";
 import { connectMongoDB } from "./db";
 import decisionsRouter from "./routes/decisions";
